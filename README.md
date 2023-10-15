@@ -1,3 +1,3 @@
 # my-first-blog
 
-# Django tutolial
+Django tutorial
